@@ -1,0 +1,1 @@
+DROP DATABASE minion_db WITH(FORCE);
